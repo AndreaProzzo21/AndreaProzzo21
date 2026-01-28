@@ -23,6 +23,7 @@ I enjoy building projects that combine **automation**, **IoT**, and intelligent 
 - **Data & Monitoring:** Postgres, InfluxDB, Grafana  
 - **DevOps:** Docker, Docker Compose, Git/GitHub  
 - **AI/ML:** Fundamentals of machine learning, data processing
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Docker](https://img.shields.io/badge/Docker-Compose-blue)
 ![IoT](https://img.shields.io/badge/IoT-RaspberryPi-green)
