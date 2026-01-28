@@ -22,7 +22,11 @@ I enjoy building projects that combine **automation**, **IoT**, and intelligent 
 - **IoT & Messaging:** MQTT (Mosquitto), Raspberry Pi  
 - **Data & Monitoring:** Postgres, InfluxDB, Grafana  
 - **DevOps:** Docker, Docker Compose, Git/GitHub  
-- **AI/ML:** Fundamentals of machine learning, data processing  
+- **AI/ML:** Fundamentals of machine learning, data processing
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Docker](https://img.shields.io/badge/Docker-Compose-blue)
+![IoT](https://img.shields.io/badge/IoT-RaspberryPi-green)
+![AI](https://img.shields.io/badge/AI-MachineLearning-orange) 
 
 ---
 
@@ -76,11 +80,8 @@ I have developed small automation projects such as:
 To grow as an engineer and contribute to innovative projects at the intersection of  
 **Automation, AI, and IoT technologies**.
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Docker](https://img.shields.io/badge/Docker-Compose-blue)
-![IoT](https://img.shields.io/badge/IoT-RaspberryPi-green)
-![AI](https://img.shields.io/badge/AI-MachineLearning-orange)
 
-![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaProzzo21&show_icons=true)
+
+
 
 
