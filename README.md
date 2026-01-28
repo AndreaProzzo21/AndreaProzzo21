@@ -81,3 +81,6 @@ To grow as an engineer and contribute to innovative projects at the intersection
 ![IoT](https://img.shields.io/badge/IoT-RaspberryPi-green)
 ![AI](https://img.shields.io/badge/AI-MachineLearning-orange)
 
+![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaProzzo21&show_icons=true)
+
+
