@@ -1,16 +1,83 @@
-## Hi there 👋
+# 👋 Hi, I'm Andrea Prozzo
 
-<!--
-**AndreaProzzo21/AndreaProzzo21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Digital Automation Engineering student passionate about **software development**, **AI**, **machine learning**, **data analysis** and **distributed systems**.  
+I enjoy building projects that combine **automation**, **IoT**, and intelligent data-driven applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔧 Interested in **Automation Engineering**, **Software Development**, and **Embedded Systems**
+- 🤖 Exploring **Machine Learning** and **Artificial Intelligence**
+- 🌍 Building scalable solutions for real-world connected devices
+- 🐧 Working daily with **Linux** and **Raspberry Pi** environments
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+- **Programming:** Python, HTML, C++, Bash  
+- **Backend & APIs:** FastAPI, Flask and REST architectures  
+- **Automation:** n8n workflows, scripting  
+- **IoT & Messaging:** MQTT (Mosquitto), Raspberry Pi  
+- **Data & Monitoring:** Postgres, InfluxDB, Grafana  
+- **DevOps:** Docker, Docker Compose, Git/GitHub  
+- **AI/ML:** Fundamentals of machine learning, data processing  
+
+---
+
+## 📌 Featured Projects
+
+### 🔥 Modular IoT Platform (ongoing)
+A containerized and scalable IoT platform including:
+
+- MQTT data ingestion  
+- Time-series storage with InfluxDB  
+- Monitoring dashboards with Grafana  
+- Modular microservice-oriented architecture
+- REST API 
+
+---
+
+### 🤖 Bots & Automation Tools
+I have developed small automation projects such as:
+
+- Custom bots for messaging and task automation  
+- Workflow automation using **n8n**  
+- Scripts for system monitoring and deployment  
+
+---
+
+### ⚙️ Other Academic & Personal Projects
+- Embedded applications on Raspberry Pi, ESP32, Arduino  
+- Backend prototypes and API-based systems  
+- Experimentation with AI-driven solutions  
+
+---
+
+## 🌱 Currently Learning
+
+- End-to-end software architectures & clean API design  
+- Machine learning applications for automation  
+- Cloud + edge integration for IoT systems  
+- Best practices in collaborative software engineering  
+
+---
+
+## 📫 Connect With Me
+
+- Email: **and.prozzo@gmail.com**  
+- GitHub: [@AndreaProzzo21](https://github.com/AndreaProzzo21)
+
+---
+
+## ✨ Goal
+
+To grow as an engineer and contribute to innovative projects at the intersection of  
+**Automation, AI, and IoT technologies**.
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Docker](https://img.shields.io/badge/Docker-Compose-blue)
+![IoT](https://img.shields.io/badge/IoT-RaspberryPi-green)
+![AI](https://img.shields.io/badge/AI-MachineLearning-orange)
+
