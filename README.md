@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Andrea Prozzo
 
-🎓 Digital Automation Engineering student passionate about **software development**, **AI**, **machine learning**, **data analysis** and **distributed systems**.  
-I enjoy building projects that combine **automation**, **IoT**, and intelligent data-driven applications.
+🎓 Digital Automation Engineering student passionate about **software development**, **AI**, **machine learning**, **data analysis** and **distributed systems**. I enjoy building projects that combine **automation**, **IoT**, and intelligent data-driven applications.
 
 ---
 
