@@ -6,10 +6,10 @@
 
 ## 🚀 About Me
 
-- 🔧 Interested in **Automation Engineering**, **Software Development**, and **Embedded Systems**
-- 🤖 Exploring **Machine Learning** and **Artificial Intelligence**
-- 🌍 Building scalable solutions for real-world connected devices
-- 🐧 Working daily with **Linux** and **Raspberry Pi** environments
+- Interested in **Automation Engineering**, **Software Development**, and **Embedded Systems**
+- Exploring **Machine Learning** and **Artificial Intelligence**
+- Building scalable solutions for real-world connected devices
+- Working daily with **ESP32** and **Raspberry Pi** environments
 
 ---
 
