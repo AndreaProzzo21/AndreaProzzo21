@@ -71,21 +71,12 @@ A containerized and scalable IoT ecosystem including:
 
 * Email: **and.prozzo@gmail.com**
 * GitHub: [@AndreaProzzo21](https://github.com/AndreaProzzo21)
+* LinkedIn: https://www.linkedin.com/in/andrea-prozzo-02884826b/
 
 ---
 
 ## ✨ Goal
 
-To grow as an engineer and contribute to innovative projects at the intersection of
-
-**Automation, Cloud-Native Infrastructure, and IoT Technologies**.
+To grow as an engineer and contribute to innovative projects at the intersection of **Automation, Cloud-Native Infrastructure, and IoT Technologies**.
 
 ---
-
-### Cosa è cambiato:
-
-1. **Tech Stack:** Ho aggiunto **AWS**, **Terraform** e **React** (visto che li hai usati per il frontend e il deploy).
-2. **Flagship Project:** Ho messo il progetto della tesi/pompe in cima, descrivendolo in modo tecnico ma sintetico.
-3. **About Me & Learning:** Ho inserito i concetti di **Cloud-Native**, **IaC** e **Digital Twin**, che sono le parole chiave che i recruiter cercano oggi per un ingegnere dell'automazione.
-
-Ti sembra abbastanza "easy" o vuoi che limiamo qualche altra parte? Se vuoi puoi incollarlo direttamente nel tuo file `README.md` del profilo.
