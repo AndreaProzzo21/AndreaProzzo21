@@ -1,82 +1,91 @@
 # 👋 Hi, I'm Andrea Prozzo
 
-🎓 Digital Automation Engineering student passionate about **software development**, **AI**, **machine learning**, **data analysis** and **distributed systems**. I enjoy building projects that combine **automation**, **IoT**, and intelligent data-driven applications.
+🎓 **Digital Automation Engineering** student passionate about **software development**, **distributed systems**, and **intelligent automation**. I bridge the gap between **IoT Core** and **Cloud Computing** to build data-driven industrial applications.
 
 ---
 
 ## 🚀 About Me
 
-- Interested in **Automation Engineering**, **Software Development**, and **Embedded Systems**
-- Exploring **Machine Learning** and **Artificial Intelligence**
-- Building scalable solutions for real-world connected devices
-- Working daily with **ESP32** and **Raspberry Pi** environments
+* ☁️ Exploring **Cloud Computing** and **Infrastructure as Code (IaC)**
+* 🧠 Building **Predictive Maintenance** solutions using **Machine Learning**
+* 🏗️ Designing scalable **Microservices** for real-world connected devices
+* 📟 Working daily with **ESP32**, **Raspberry Pi**, and **MQTT** environments
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-- **Programming:** Python, HTML, C++
-- **Backend & APIs:** FastAPI, Flask and REST architectures  
-- **Automation:** n8n workflows, scripting  
-- **IoT & Messaging:** MQTT (Mosquitto), Raspberry Pi  
-- **Data & Monitoring:** Postgres, SQL Alchemy and SQLite, InfluxDB, Grafana  
-- **DevOps:** Docker, Docker Compose, Git/GitHub  
-- **AI/ML:** Fundamentals of machine learning, data processing
+* **Programming:** Python, C++, JavaScript (React), HTML/CSS
+* **Cloud & DevOps:** **AWS (EC2)**, **Terraform**, **Docker & Docker Compose**, Git
+* **Backend & APIs:** **FastAPI**, Flask, REST architectures
+* **IoT & Messaging:** **MQTT (Mosquitto)**, IoT Core fundamentals
+* **Data & Monitoring:** **InfluxDB**, Postgres, SQL Alchemy, Grafana
+* **Automation:** n8n workflows, Python scripting
+* **AI/ML:** Scikit-Learn (Supervised Learning), Data Processing
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔥 Modular IoT Platform (ongoing)
-A containerized and scalable IoT platform including:
+### 🏭 Cloud-Native Predictive Maintenance Pipeline
 
-- MQTT data ingestion  
-- Time-series storage with InfluxDB  
-- Monitoring dashboards with Grafana  
-- Modular microservice-oriented architecture
-- REST API 
+A complete E2E pipeline for industrial assets, provisioned on **AWS via Terraform**.
+
+* **Digital Twin:** Python-based simulators modeling pump degradation (ISO 10816).
+* **AI Inference:** Real-time health classification using **Random Forest**.
+* **Monitoring:** Live dashboard built with **React** and **FastAPI**.
+* **Storage:** Time-series data management with **InfluxDB**.
+
+---
+
+### 🔥 Modular IoT Platform
+
+A containerized and scalable IoT ecosystem including:
+
+* High-throughput MQTT data ingestion
+* Persistent storage and historical data analysis
+* Custom monitoring dashboards
+* FastAPI protected endpoints
+* Telegram Bot + n8n workflow as a conversational UI
 
 ---
 
 ### 🤖 Bots & Automation Tools
-I have developed small automation projects such as:
 
-- Custom bots for messaging and task automation  
-- Workflow automation using **n8n**  
-- Scripts for system monitoring and deployment  
-
----
-
-### ⚙️ Other Academic & Personal Projects
-- Embedded applications on Raspberry Pi, ESP32, Arduino  
-- Backend prototypes and API-based systems  
-- Experimentation with supervised and unsupervised machine learning techniques   
+* Custom bots for task automation and system notifications, newsletter
+* Custom bots that leverage AI in various context
+* Complex workflow automation using **n8n**
+* Deployment and monitoring scripts
 
 ---
 
 ## 🌱 Currently Learning
 
-- End-to-end software architectures & clean API design  
-- Machine learning applications for automation  
-- Cloud + edge integration for IoT systems  
-- Best practices in collaborative software engineering  
+* **Cloud Infrastructure:** Deepening AWS services and Terraform automation
+* **Full-Stack Development:** Improving system design and developement for industrial applications
+* **Edge-to-Cloud Integration:** Optimizing data flow between local devices and cloud providers
 
 ---
 
 ## 📫 Connect With Me
 
-- Email: **and.prozzo@gmail.com**  
-- GitHub: [@AndreaProzzo21](https://github.com/AndreaProzzo21)
+* Email: **and.prozzo@gmail.com**
+* GitHub: [@AndreaProzzo21](https://github.com/AndreaProzzo21)
 
 ---
 
 ## ✨ Goal
 
-To grow as an engineer and contribute to innovative projects at the intersection of  
-**Automation, AI, and IoT technologies**.
+To grow as an engineer and contribute to innovative projects at the intersection of
 
+**Automation, Cloud-Native Infrastructure, and IoT Technologies**.
 
+---
 
+### Cosa è cambiato:
 
+1. **Tech Stack:** Ho aggiunto **AWS**, **Terraform** e **React** (visto che li hai usati per il frontend e il deploy).
+2. **Flagship Project:** Ho messo il progetto della tesi/pompe in cima, descrivendolo in modo tecnico ma sintetico.
+3. **About Me & Learning:** Ho inserito i concetti di **Cloud-Native**, **IaC** e **Digital Twin**, che sono le parole chiave che i recruiter cercano oggi per un ingegnere dell'automazione.
 
-
+Ti sembra abbastanza "easy" o vuoi che limiamo qualche altra parte? Se vuoi puoi incollarlo direttamente nel tuo file `README.md` del profilo.
