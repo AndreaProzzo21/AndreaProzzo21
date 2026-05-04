@@ -1,4 +1,9 @@
-# 👋 Hi, I'm Andrea Prozzo | Automation Engineer
+# 👋 Hi, I'm Andrea Prozzo | Cloud-Native & Automation Engineer
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/andrea-prozzo-02884826b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:and.prozzo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ### 🎯 Overview
 
@@ -62,24 +67,6 @@ Beyond structured projects, I maintain a continuous laboratory of **autonomous w
 - **AI Orchestration:** Integrating LLMs (OpenAI/Anthropic) with **STT (Speech-to-Text)** and **TTS (Text-to-Speech)** for voice-controlled automation.
 - **API Mashups:** Custom integrations between Telegram, Google Services, and third-party SaaS to automate data processing and alerting.
 - **Smart Agents:** Building event-driven agents that monitor web sources and generate AI-summarized insights directly to private channels.
-
----
-
-### 📊 GitHub Activity & Metrics
-| Feature | Metrics |
-| :--- | :--- |
-| 🚀 **Public Repos** | ![Repos](https://img.shields.io/github/directory-structure/package-json/AndreaProzzo21?label=%20&color=326ce5) |
-| 🛠 **Main Stack** | Python, FastAPI, K8s, Terraform |
-| 📈 **Contributions** | ![Contributions](https://img.shields.io/badge/Contributions-Active-success) |
-| ⚡ **GitHub Score** | ![Score](https://img.shields.io/badge/Status-Building_Future-blue) |
-
----
-
-### 🤝 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/andrea-prozzo-02884826b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:and.prozzo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
 
 ---
 
