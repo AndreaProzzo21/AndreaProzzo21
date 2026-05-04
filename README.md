@@ -67,10 +67,12 @@ Beyond structured projects, I maintain a continuous laboratory of **autonomous w
 - **API Mashups:** Custom integrations between Telegram, Google Services, and third-party SaaS to automate data processing and alerting.
 - **Smart Agents:** Building event-driven agents that monitor web sources and generate AI-summarized insights directly to private channels.
 
+---
+
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndreaProzzo21&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide_border=true" alt="Andrea's Stats" height="192px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaProzzo21&layout=compact&theme=react&border_radius=10&hide_border=true" alt="Top Languages" height="192px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AndreaProzzo21&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" alt="Andrea's Stats" height="192px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaProzzo21&layout=compact&theme=react&hide_border=true&count_private=true" alt="Top Languages" height="192px" />
 </p>
 
 <p align="center">
