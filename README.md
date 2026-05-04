@@ -69,8 +69,12 @@ Beyond structured projects, I maintain a continuous laboratory of **autonomous w
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndreaProzzo21&show_icons=true&theme=transparent&hide_border=true&title_color=326ce5&icon_color=326ce5&text_color=475569" alt="Andrea's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaProzzo21&layout=compact&theme=transparent&hide_border=true&title_color=326ce5&text_color=475569" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AndreaProzzo21&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide_border=true" alt="Andrea's Stats" height="192px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaProzzo21&layout=compact&theme=react&border_radius=10&hide_border=true" alt="Top Languages" height="192px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndreaProzzo21&theme=react-dark&hide_border=true&area=true" alt="Andrea's Activity Graph" width="100%" />
 </p>
 
 ---
