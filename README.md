@@ -1,12 +1,8 @@
-# 👋 Hi, I'm Andrea Prozzo | Cloud-Native & Automation Engineer
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/andrea-prozzo-02884826b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:and.prozzo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+# 👋 Hi, I'm Andrea Prozzo | Automation Engineer
 
 ### 🎯 Overview
-I am a **Digital Automation Engineering** student specializing in the convergence of **Industrial IoT**, **Distributed Systems**, and **Cloud-Native Infrastructure**. I build bridge solutions that connect the physical world (Edge) to highly scalable and orchestrated environments (Cloud).
+
+With a solid background in **Management Engineering**, I am currently a **Digital Automation Engineering** student specializing in the convergence of **Industrial IoT**, **Distributed Systems**, and **Cloud-Native Infrastructure**. I leverage my dual expertise to build bridge solutions that connect the physical world (Edge) to highly scalable and orchestrated environments (Cloud), always with a focus on process efficiency and data-driven decision making.
 
 ---
 
@@ -69,14 +65,20 @@ Beyond structured projects, I maintain a continuous laboratory of **autonomous w
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndreaProzzo21&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" alt="Andrea's Stats" height="192px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaProzzo21&layout=compact&theme=react&hide_border=true&count_private=true" alt="Top Languages" height="192px" />
-</p>
+### 📊 GitHub Activity & Metrics
+| Feature | Metrics |
+| :--- | :--- |
+| 🚀 **Public Repos** | ![Repos](https://img.shields.io/github/directory-structure/package-json/AndreaProzzo21?label=%20&color=326ce5) |
+| 🛠 **Main Stack** | Python, FastAPI, K8s, Terraform |
+| 📈 **Contributions** | ![Contributions](https://img.shields.io/badge/Contributions-Active-success) |
+| ⚡ **GitHub Score** | ![Score](https://img.shields.io/badge/Status-Building_Future-blue) |
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndreaProzzo21&theme=react-dark&hide_border=true&area=true" alt="Andrea's Activity Graph" width="100%" />
+---
+
+### 🤝 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/andrea-prozzo-02884826b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:and.prozzo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
