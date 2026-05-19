@@ -35,11 +35,16 @@ I am currently evolving my stack toward the **Cloud-Native ecosystem**, focusing
 ## 📌 Featured Projects
 
 ### ☸️ [K8s Cloud Gateway](https://github.com/AndreaProzzo21/k8s-cloud-gateway)
-*A stateless, multi-cluster management platform designed for granular, profile-based access to Kubernetes resources.*
-- **Zero-Trust Architecture:** Implemented a stateless authentication system using **JWT** to encapsulate encrypted K8s Service Account tokens, ensuring credentials never reside on the client-side.
-- **Dynamic Orchestration:** Built with **FastAPI** and the **Kubernetes Python Client** to manage Pods, scale Deployments, and perform rollout restarts across multiple clusters through a unified API.
-- **Stateless Security:** Integrated **HttpOnly Cookies** and RBAC mapping to bridge the gap between simple web interfaces and complex K8s permission structures.
-- **Infrastructure:** Fully containerized with **Docker Compose**, featuring an Nginx-backed frontend and a secure Python backend.
+
+*A secure, self-hosted control plane for managing multi-cluster Kubernetes fleets with zero-trust RBAC and integrated Helm operations.*
+
+* **Zero-Trust & Security:** Engineered a robust proxy architecture where Kubernetes credentials (`ca.crt`, Service Account tokens) never reach the client. Sensitive data is encrypted at rest in a SQLite database using **AES-128 (Fernet)**, with sessions secured by **HttpOnly JWTs**.
+* **Advanced Helm Engine:** Built a universal package management system capable of processing native `.tgz` archives, custom `.zip` uploads, and remote repositories. Features real-time linting, subchart awareness, and one-click rollbacks via **FastAPI**.
+* **Fleet Observation & Audit:** Designed a centralized Admin Console to monitor cluster health, node/pod telemetry, and compliance rules across the entire fleet in real-time.
+* **Dynamic RBAC Scoping:** Implemented profile-based delegation that seamlessly maps team roles to specific K8s permissions. The UI intelligently adapts to the user's authorized scope, ensuring safe resource management without sharing `kubeconfig` files.
+* **Enterprise Onboarding:** Developed an interactive, production-ready `curl-to-bash` bootstrap script for one-minute deployment via **Docker Compose**, featuring automated cryptographic key generation and smart defaults.
+
+---
 
 ### 🏭 [Cloud-Native Predictive Maintenance Pipeline](https://github.com/AndreaProzzo21/Edge-Cloud-PdM-Pipeline)
 *An E2E MLOps pipeline for industrial assets, transitioning from physical simulation to a fully containerized Digital Twin environment.*
