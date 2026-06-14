@@ -7,16 +7,16 @@
 
 ### 🎯 Overview
 
-With a solid background in **Management Engineering**, I am currently a **Digital Automation Engineering** student specializing in the convergence of **Industrial IoT**, **Distributed Systems**, and **Cloud-Native Infrastructure**. I leverage my dual expertise to build bridge solutions that connect the physical world (Edge) to highly scalable and orchestrated environments (Cloud), always with a focus on process efficiency and data-driven decision making.
+I am a Management Engineering graduate currently specializing in Digital Automation Engineering. My passion lies in building the "glue" between the physical world and the cloud. I design and develop systems that securely gather data from Edge and IoT devices, and manage it reliably within scalable, containerized cloud environments. My core focus is on building resilient infrastructures, full-stack observability, and process automation.
 
 ---
 
 ### ☸️ The Kubernetes & Cloud-Native Shift
 I am currently evolving my stack toward the **Cloud-Native ecosystem**, focusing on:
-*   **Orchestration:** Deploying and managing K8s resources (Deployments, StatefulSets, Services, Ingress).
-*   **Security:** Implementing RBAC, Secret management, and secure API Gateways with **JWT & HttpOnly Cookies**.
-*   **Automation (IaC):** Provisioning multi-cluster environments on **AWS** using **Terraform**.
-*   **Observability:** Building full-stack monitoring pipelines with **Grafana**, **InfluxDB**, and custom exporters.
+* **Orchestration & Autoscaling:** Managing K8s resources (Deployments, StatefulSets, Services) and actively exploring Event-Driven Autoscaling with **KEDA**.
+* **Observability:** Building full-stack telemetry and centralizing logs using **Prometheus**, **Loki**, and **Grafana** (PLG stack).
+* **IaC & Configuration Management:** Automating infrastructure and application deployments using a pragmatic mix of **Terraform** and **Ansible**.
+* **Security:** Implementing RBAC, Secret management, and secure API Gateways with **JWT & HttpOnly Cookies**.
 
 ---
 
@@ -33,6 +33,16 @@ I am currently evolving my stack toward the **Cloud-Native ecosystem**, focusing
 ---
 
 ## 📌 Featured Projects
+
+### 📡 [EdgeHub: Distributed Edge Control Plane](https://github.com/AndreaProzzo21/k8s-cloud-gateway)
+
+*A centralized Command & Control platform for monitoring telemetry, hardware health, and containerized workloads across distributed edge nodes in industrial or agricultural settings.*
+
+* **Full contained Go Agent:** Developed a cross-compiled, lightweight telemetry agent in Go leveraging gopsutil. It natively monitors host OS metrics (CPU, Thermal sensors, Swap, Disk I/O) and introspects container runtimes (Docker/K8s) in both bare-metal and cloud VMs.
+* **Async FastAPI Backend:** Built a scalable backend with FastAPI and SQLAlchemy using stateless JWT authentication. Engineered a bidirectional C&C pipeline that enables seamless, remote JWT rotation (over-the-air) before token expiration, ensuring continuous and secure fleet connectivity with zero manual intervention at the edge.
+* **Smart Alert Engine:** Engineered an intelligent background notification system for Discord/Slack. It features HTTP 429 Rate-Limit handling, custom payload evaluation, and stateful anti-spam cooldowns tracked securely via PostgreSQL JSON columns.
+
+---
 
 ### ☸️ [K8s Cloud Gateway](https://github.com/AndreaProzzo21/k8s-cloud-gateway)
 
@@ -79,8 +89,3 @@ Beyond structured projects, I maintain a continuous laboratory of **autonomous w
 *   **Advanced K8s Networking:** Deep diving into Service Meshes and advanced Ingress controllers.
 *   **GitOps:** Implementing CI/CD pipelines for automated infrastructure deployments.
 *   **SRE Principles:** Focus on scalability, reliability, and monitoring of distributed systems.
-
----
-<p align="center">
-  <i>"I build resilient infrastructures for an automated future."</i>
-</p>
