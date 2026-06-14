@@ -34,7 +34,7 @@ I am currently evolving my stack toward the **Cloud-Native ecosystem**, focusing
 
 ## 📌 Featured Projects
 
-### 📡 [EdgeHub: Distributed Edge Control Plane](https://github.com/AndreaProzzo21/k8s-cloud-gateway)
+### 📡 [EdgeHub: Distributed Edge Control Plane](https://github.com/AndreaProzzo21/edge-hub)
 
 *A centralized Command & Control platform for monitoring telemetry, hardware health, and containerized workloads across distributed edge nodes in industrial or agricultural settings.*
 
