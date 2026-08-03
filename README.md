@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Andrea Prozzo | Cloud-Native & Automation Engineer
+# 👋 Hi, I'm Andrea | Cloud-Native & Automation Engineer
 
 <p align="left">
   <a href="https://www.linkedin.com/in/andrea-prozzo-02884826b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
