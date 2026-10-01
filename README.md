@@ -7,7 +7,7 @@
 
 ### 🎯 Overview
 
-I am a Management Engineering graduate currently specializing in Digital Automation Engineering. My passion lies in building the "glue" between the physical world and the cloud. I design and develop systems that securely gather data from Edge and IoT devices, and manage it reliably within scalable, containerized cloud environments. My core focus is on building resilient infrastructures, full-stack observability, and process automation.
+I am a Digital Automation Engineering. My passion lies in building the "glue" between the physical world and the cloud. I design and develop systems that securely gather data from Edge and IoT devices, and manage it reliably within scalable, containerized cloud environments. My core focus is on building resilient infrastructures, full-stack observability, and process automation.
 
 ---
 
