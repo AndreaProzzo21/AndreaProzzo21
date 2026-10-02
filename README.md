@@ -9,17 +9,6 @@
 
 I am a Digital Automation Engineering. My passion lies in building the "glue" between the physical world and the cloud. I design and develop systems that securely gather data from Edge and IoT devices, and manage it reliably within scalable, containerized cloud environments. My core focus is on building resilient infrastructures, full-stack observability, and process automation.
 
----
-
-### ☸️ The Kubernetes & Cloud-Native Shift
-I am currently evolving my stack toward the **Cloud-Native ecosystem**, focusing on:
-* **Orchestration & Autoscaling:** Managing K8s resources (Deployments, StatefulSets, Services) and actively exploring Event-Driven Autoscaling with **KEDA**.
-* **Observability:** Building full-stack telemetry and centralizing logs using **Prometheus**, **Loki**, and **Grafana** (PLG stack).
-* **IaC & Configuration Management:** Automating infrastructure and application deployments using a pragmatic mix of **Terraform** and **Ansible**.
-* **Security:** Implementing RBAC, Secret management, and secure API Gateways with **JWT & HttpOnly Cookies**.
-
----
-
 ### 🛠️ Tech Stack
 
 | Domain | Tools & Technologies |
@@ -33,6 +22,16 @@ I am currently evolving my stack toward the **Cloud-Native ecosystem**, focusing
 ---
 
 ## 📌 Featured Projects
+
+### ⚙️ [Context-Aware Edge Scheduler](https://github.com/AndreaProzzo21/custom-scheduler)
+
+*A custom Kubernetes scheduling middleware and monitoring engine designed to bridge the IT/OT gap for Industrial Digital Twins through real-time cyber-physical entanglement metrics.*
+
+- **Dual-Thread Orchestration Architecture:** Built a robust dual-thread orchestration engine separating initial context-aware placement from ongoing synchronization maintenance. It leverages a **Multi-Criteria Decision Making (MCDM)** algorithm to evaluate real-time network latency, hardware temperatures, and disk I/O before allocating workloads.
+- **Prometheus Observability Pipeline:** Deeply integrated with the **Prometheus** metrics stack to compute the *Overall Digital Twin Entanglement (ODTE)* on the fly. Continuously monitors physical-to-digital network delay and internal computation time to precisely diagnose synchronization drift.
+- **Closed-Loop Automated Recovery:** Engineered an active monitoring background worker that autonomously detects performance degradation and triggers reactive or proactive pod eviction when entanglement safety thresholds are breached, forcing seamless relocation to healthy edge nodes.
+
+---
 
 ### 📡 [EdgeHub: Distributed Edge Control Plane](https://github.com/AndreaProzzo21/edge-hub)
 
