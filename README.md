@@ -23,7 +23,7 @@ I am a Digital Automation Engineering. My passion lies in building the "glue" be
 
 ## 📌 Featured Projects
 
-### ⚙️ [Context-Aware Edge Scheduler](https://github.com/AndreaProzzo21/custom-scheduler)
+### ⚙️ [Context-Aware Edge Scheduler](https://github.com/AndreaProzzo21/scheduler-custom)
 
 *A custom Kubernetes scheduling middleware and monitoring engine designed to bridge the IT/OT gap for Industrial Digital Twins through real-time cyber-physical entanglement metrics.*
 
